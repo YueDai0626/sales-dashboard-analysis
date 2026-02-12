@@ -42,3 +42,18 @@ Analyze sales data and build visual dashboards to identify revenue trends, top p
 - Exploratory data analysis
 - Visualization design
 - Business insight extraction
+
+---
+
+## How to Run
+
+1. Install required libraries
+pip install pandas matplotlib
+
+2. Run script
+python analysis.py
+
+---
+
+## Dataset
+Demo sales dataset included in this repository.
